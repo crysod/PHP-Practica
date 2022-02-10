@@ -7,6 +7,6 @@
     <title>Hello Word</title>
 </head>
 <body>
-    
+    <?php echo "Hello Word";?>
 </body>
 </html>
